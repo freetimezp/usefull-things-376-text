@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/0.184.0/three.module.js";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry.js";
 
